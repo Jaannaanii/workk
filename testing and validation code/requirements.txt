@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+boto3
+pytest
+requests
+pydantic
+python-multipart
+PyPDF2

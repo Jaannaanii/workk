@@ -1,0 +1,9 @@
+{
+  "run_id": "1234-abc",
+  "timestamp": "2025-06-24T12:00:00Z",
+  "agent_name": "AgentX",
+  "tokens": 234,
+  "response_time": 1.23,
+  "confidence": 0.92,
+  "status": "success"
+}
